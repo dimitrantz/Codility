@@ -17,7 +17,9 @@ def solutionB(N, A):
             counters[num - 1] += 1
             
     return counters
-# https://app.codility.com/demo/results/training6TVHH8-Y8U/
+
+
+# 100%  https://app.codility.com/demo/results/training6TVHH8-Y8U/
 def solution(N, A):
     if N == 0:
         return []

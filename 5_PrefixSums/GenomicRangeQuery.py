@@ -1,3 +1,4 @@
+
 # 100%
 def solution(S, P, Q):
     # write your code in Python 3.6

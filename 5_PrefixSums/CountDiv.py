@@ -1,3 +1,4 @@
+
 # 62%
 def solutionB(A, B, K):
     if (A>B) or (K < 0):
@@ -12,7 +13,7 @@ def solutionB(A, B, K):
             
     return count
 
-
+# 100%
 def solution(A, B, K):
     Ｘ = 1 if (A % K) == 0 else 0
     return (B // K) - (A // K)  + X

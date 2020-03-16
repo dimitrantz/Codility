@@ -1,3 +1,6 @@
+
+
+// 100% 
 function solution(N, A) {
 
     var counter = new Array(N);
