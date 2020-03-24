@@ -7,3 +7,10 @@ def solution(X, Y, D):
         return dis // D
     else:
        return dis // D + 1
+
+
+
+
+
+
+       
