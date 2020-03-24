@@ -1,6 +1,4 @@
-# you can write to stdout for debugging purposes, e.g.
-# print("this is a debug message")
-
+# 100%
 def solution(H):
     # write your code in Python 3.6
     if len(H) < 2: return len(H)
